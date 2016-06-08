@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:38:55.799654
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 16:52
 #+TITLE: 持咒仙人飛鉢儀軌
 #+PROPERTY: CBETA_ID X59n1048
 #+PROPERTY: ID KR6j0744
 #+PROPERTY: SOURCE 卍 Xuzangjing Vol. 59, No. 1048
 #+PROPERTY: VOL 59
 #+PROPERTY: BASEEDITION X
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0744_X_001-0046a> 
 #+PROPERTY: JUAN 1
-No.1048¶
-
- 持呪仙人飛鉢儀軌¶
+No. 1048¶
+持呪仙人飛鉢儀軌¶
 大興善寺沙門　不空　拔出¶
 
 大阿闍梨云若有善男子善女人欲清淨加行飛轉¶
